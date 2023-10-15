@@ -6,7 +6,9 @@ import java.util.ArrayList;
 
 public class UseAc {
 	public static void main(String[] args) {
-
+    
+		System.out.println("hello world");
+		
 		Ac ac1 = new Ac();
 		ac1.setBrand("Samsung");
 		ac1.setprice(50000);
